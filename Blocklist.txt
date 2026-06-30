@@ -27,3 +27,4 @@
 ||ib.adnxs.com^
 ||adservice.google.com^
 ||adservice.google.co^
+||aet.spotify.com^
